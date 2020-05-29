@@ -1,0 +1,13 @@
+/* server.js file
+    initiative code.
+    ///////////////////////////////////////////////////////////
+    /*const app=require('./backend/app');
+const http=require('http')
+const server= http.createServer(app);
+const port=process.env.PORT || 3000;
+app.set('port',port)
+server.listen(port);
+*/
+mongoDB passward for atlas (online server)
+//mongodb password pAr3T6IhNN3s7LMT
+*/
